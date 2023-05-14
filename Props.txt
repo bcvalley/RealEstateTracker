@@ -1,0 +1,12 @@
+70000 Duplex 5 500 Bulgaria
+50000 Triplex 7 350 Hungary
+40000 Loft 3 200 Bulgaria
+90000 Condo 5 600 Romania
+70000 Aparta 5 500 Canada
+320000 Studio 5 1000 France
+170000 Duplex 5 800 Netherlands
+150000 Triplex 5 750 Russia
+300000 Condo 5 2000 Bulgaria
+200000 Loft 5 950 Bulgaria
+100000 Studio 5 700 Bulgaria
+120000 Studio 5 800 Bulgaria

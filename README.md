@@ -1,5 +1,7 @@
 # RealEstateTracker
 Project for uni
+
+
 Real Estate Tracker
     It allows you to add new properties as well as adding managers.
     You have an option to list all properties and it's managers as well as profits and etc.
